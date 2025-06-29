@@ -36,8 +36,6 @@ Breaking things, fixing them, and learning a ton in the process — that’s my 
 <br/><!-- DevOps & Others -->
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-<br/><!-- RPA & Automation -->
-![UiPath](https://img.shields.io/badge/UiPath-F56C2D?style=flat&logo=uipath&logoColor=white)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cuberkam&layout=compact)
