@@ -45,10 +45,8 @@ Breaking things, fixing them, and learning a ton in the process — that’s my 
 ### Geomathric
 **Tech Stack:** Typescript · Nextjs  
 
-**Description:**  
-Geomathric is a modern, web-based geometric drawing and visualization tool. It provides an interface for creating geometric structures and visually exploring mathematical concepts.
+**Description:** Geomathric is a modern, web-based geometric drawing and visualization tool. It provides an interface for creating geometric structures and visually exploring mathematical concepts.
 
-**Development Approach:**  
-Developed using **vibe coding** with **Antigravity** and **Gemini 3**.
+**Development Approach:** Developed using **vibe coding** with **Antigravity** and **Gemini 3**.
 
 🔗 [https://geomathric.netlify.app/](https://geomathric.netlify.app/)
