@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Erkam Kumru!
-Breaking things, fixing them, and learning a ton in the process — that’s my kind of day.
+Breaking things, fixing them, and learning a ton in the process that’s my kind of day.
 <br/>
 
 ![](https://komarev.com/ghpvc/?username=cuberkam&style=flat-square&label=PROFILE+VIEWS)
